@@ -1,0 +1,10 @@
+GOAL: 
+
+STEP 1: Are you traveling solo or as a family?
+
+STEP 2: What's the date and cost estimation for flights?
+
+STEP 3: What is the budget for accommodations, including any specific hotel name or rank/range for a 3-day trip to Murree?
+
+STEP 4: Are there any particular needs or preferences to consider along the way, such as airport pick-up, local currency or preferred hotel rank/range?
+
