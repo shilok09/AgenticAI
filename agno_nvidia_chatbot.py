@@ -8,7 +8,7 @@ Usage:
 """
 
 import os
-os.environ["NVIDIA_API_KEY"] = "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"
+os.environ["NVIDIA_API_KEY"] = ""
 
 from agno.agent import Agent
 from agno.models.nvidia import Nvidia
